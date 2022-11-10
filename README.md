@@ -1,2 +1,4 @@
 # simple_calculator
-A simple mathematical calculator.
+### A simple mathematical calculator.
+
+## THIS IS A SIMPLE CALCULATOR THAT YOU CAN USE IN YOUR DAILY LIFE FOR THE BASIC MATHEMATICAL CALCULATIONS.
